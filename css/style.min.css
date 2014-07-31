@@ -843,7 +843,7 @@ a.rss:hover {
     font-weight: 800;
     line-height: 1;
     margin: 10px 0 20px;
-    text-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    text-shadow: 0 0 20px rgba(0, 0, 0, .2);
     text-transform: none;
 }
 
@@ -1730,7 +1730,7 @@ a.rss:hover {
     }
 
     .jumbotron h1 {
-        font-size: 90px;
+        font-size: 60px;
         margin: 10px 0;
     }
 
@@ -1742,7 +1742,7 @@ a.rss:hover {
 
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
     .jumbotron h1 {
-        font-size: 94px !important;
+        font-size: 54px !important;
         margin: 10px 0 15px;
     }
 
@@ -1882,7 +1882,7 @@ a.rss:hover {
 
 @media only screen and (min-width: 767px) and (max-width: 959px) {
     .jumbotron h1 {
-        font-size: 94px;
+        font-size: 64px;
         margin: 10px 0 15px;
     }
 
